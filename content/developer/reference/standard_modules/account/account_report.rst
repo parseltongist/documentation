@@ -29,4 +29,3 @@ Report
     .. autofield:: filter_hierarchy
     .. autofield:: filter_account_type
     .. autofield:: filter_partner
-    .. autofield:: filter_fiscal_position
