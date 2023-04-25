@@ -335,7 +335,7 @@ Report Actions (``ir.actions.report``)
 
 Triggers the printing of a report.
 
-If you define your report through a `<record>` instead of a `<report>` tag and
+If you define your report through a `<record>` instead of a `<report>` **(depricated)** tag and
 want the action to show up in the Print menu of the model's views, you will
 also need to specify ``binding_model_id`` from :ref:`reference/bindings`. It's
 not necessary to set ``binding_type`` to ``report``, since
